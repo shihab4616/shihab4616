@@ -58,7 +58,7 @@ My Mission? To make an impact in the tech world and land my dream career in soft
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shihab4616&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" width="350"alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulla73&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=true&order=2" height="148" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shihab4616&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=true&order=2" height="148" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=shihab4616&locale=en&mode=daily&theme=darcula&hide_border=true&border_radius=6&order=3" height="170" width="500" alt="streak graph"  />
 </div>
 
@@ -71,10 +71,10 @@ My Mission? To make an impact in the tech world and land my dream career in soft
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Abdulla73/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/shihab4616/count.svg?"  />
 </div>
 
 ###
-<div> <a href="https://github.com/Abdulla73" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="https://github.com/shihab4616" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulla73&theme=monokai"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shihab4616&theme=monokai"/>
