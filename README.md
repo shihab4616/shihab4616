@@ -19,7 +19,7 @@
 ###
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=200&size=21&pause=1000&color=32CD32&center=true&vCenter=true&random=false&width=435&lines=+++++++++++Hey+there++%F0%9F%91%8B++I'm+Shihab+Ahmed+%F0%9F%A5%B7;++++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Quality+Assurance+Engineer;+++++++++++++++++%F0%9F%92%A1+With+ 3+ years++experience+of+SQA+%F0%9F%92%BB%E2%8C%A8%EF%B8%8F%E2%9D%95" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=200&size=21&pause=1000&color=32CD32&center=true&vCenter=true&random=false&width=435&lines=+++++++++++Hey+there++%F0%9F%91%8B++I'm+Shihab+Ahmed+%F0%9F%A5%B7;++++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Quality+Assurance+Engineer;+++++++++++++++++%F0%9F%92%A1+Automation+Enthusiast+%F0%9F%92%BB%E2%8C%A8%EF%B8%8F%E2%9D%95" alt="Typing SVG" /></a>
 </p>
 
 
@@ -31,7 +31,7 @@
 
 ###
 
-Aspiring SQA Engineer with a Passion for Testing
+Aspiring SQA Engineer with 3 years+ Experience
 📍 Based in Dhaka
 
 My Mission? To make an impact in the tech world and land my dream career in software quality assurance.
