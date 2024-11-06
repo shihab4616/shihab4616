@@ -19,7 +19,7 @@
 ###
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=200&size=21&pause=1000&color=32CD32&center=true&vCenter=true&random=false&width=435&lines=+++++++++++Hey+there++%F0%9F%91%8B++I'm+Shihab+Ahmed+%F0%9F%A5%B7;++++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Quality+Assurance+Engineer;+++++++++++++++++%F0%9F%92%A1+Automation+Enthusiast+%F0%9F%92%BB%E2%8C%A8%EF%B8%8F%E2%9D%95" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=200&size=21&pause=1000&color=32CD32&center=true&vCenter=true&random=false&width=435&lines=+++++++++++Hey+there++%F0%9F%91%8B++I'm+Shihab+Ahmed+%F0%9F%A5%B7;++++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Quality+Assurance+Engineer;+++++++++++++++++%F0%9F%92%A1+With+ 3+ years++experience+of+SQA+%F0%9F%92%BB%E2%8C%A8%EF%B8%8F%E2%9D%95" alt="Typing SVG" /></a>
 </p>
 
 
@@ -49,9 +49,48 @@ My Mission? To make an impact in the tech world and land my dream career in soft
 
 ###
 
+<h1>My Career Journey</h1>
+    <div class="section">
+        <p>- My work landed me a position with Skylark Soft Limited where I’m focused on the testing of Web and Apps</p>
+        <p>- I did my BSc.Eng-Computer Science from BU</p>
+        <p>- I am highly motivated and enjoy the challenge of demanding assignments and semester projects</p>
+        <p>- I am an open-minded, friendly, and self-motivated achiever with a sound and optimistic outlook on all things in life</p>
+        <p>- My career objective is to ensure continuous personal development and professional performance through consistent learning and staying up to date with recent 
+         technologies</p>
+    </div>
+    <h2>Skill Set That I Possess</h2>
+        <div class="skills-list">
+            <p>- Proficient in Regression and Smoke testing of Web and Apps</p>
+            <p>- Experienced in all phases of SDLC & STLC</p>
+            <p>- Expertise in preparing Test cases, Test Plans and Test Scenarios</p>
+            <p>- Experienced in End to End Testing & Functional testing</p>
+            <p>- Experience with test automation tools and frameworks including Selenium WebDriver & TestNG</p>
+            <p>- Experienced in writing and executing SQL Queries</p>
+            <p>- API Testing using Postman and knowledge of Load Testing using JMeter</p>
+            <p>- Perfect communication skills, good team player, quick to learn modern technologies, detail oriented & can work independently when required</p>
+        </div>
+        <h2>Technical Skills</h2>
+        <div class="section-content">
+            <p><strong>Programming Language:</strong> Java</p>
+            <p><strong>Automation Testing:</strong> Selenium WebDriver</p>
+            <p><strong>Testing Methods:</strong> Functional testing, Smoke testing, Regression testing, API testing</p>
+            <p><strong>API Testing:</strong> Postman</p>
+            <p><strong>Load Testing:</strong> JMeter</p>
+            <p><strong>Databases:</strong> MySQL</p>
+            <p><strong>Issue Tracking:</strong> Jira</p>
+        </div>
+        <h2>Domain Knowledge</h2>
+    <div class="section">
+            <p>- Core Banking Applications (Microfinance)</p>
+            <p>-Garments ERP  </p>
+            <p>-Garments Protracker </p>
+             <p>-HRMS, Accounting,Inventory,Knitting, Dyeing</p>
+            <p>- Food Delivery Apps</p>
+            <p>- Digital Health</p>
+        </div>
 
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Status :</h3>
 
 ###
 
