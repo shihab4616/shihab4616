@@ -77,7 +77,7 @@ My Mission? To make an impact in the tech world and land my dream career in soft
             <p><strong>API Testing:</strong> Postman</p>
             <p><strong>Load Testing:</strong> JMeter</p>
             <p><strong>Databases:</strong> MySQL</p>
-            <p><strong>Issue Tracking:</strong> Jira</p>
+            <p><strong>Issue Tracking:</strong> Jira, Clickup</p>
         </div>
         <h2>Domain Knowledge</h2>
     <div class="section">
